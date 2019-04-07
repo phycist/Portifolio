@@ -1,0 +1,13 @@
+dia 25 de janeiro
+montamos algumas estrutuas básicas 
+como principais abas 
+home
+quem somos 
+noticias sobre 4x4
+contacte-nos
+sobre APP
+
+
+falta estruturar
+o banco de dados
+ter acesso API mapa

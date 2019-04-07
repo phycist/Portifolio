@@ -1,0 +1,45 @@
+################rascunho do aplicativo ###############
+Este é rascunho para o aplicativo do 4x4
+Nele não há cotéudo somente a estrutuara do app
+
+###################################trajetória#######################################################
+
+O objetivo principal é criar um aplicativo multi-plataforma, que possa rodar tanto em ios quanto android.
+Houve um estudo extenso, qual tecnólogia usar e que fosse adequada ao projeto.
+Com uma pesquisa sobre as tecnólogias "free", open-sources
+As que se mostraram promissóras foram ionic e electron. Que são frameworks em typescript e angular.
+Outras frameworks foram exploradas , mas a maioria  vistas eram fremeworks pagas (boa parte delas era em java) . 
+Com execessão de xamarim para C# e kiviy para python.
+Xamrim para sistemas linux apresenta varias dificudades, uma vez que é tecnólogia pertecente microssoft.
+Para sistema linux não encontramos muitas referencias o qual nos fez abandonar a ideia. Semelhante  kivy teve grades dificudades em desevolver as funcionalidades desejadas. Há um aplicativo open-source indiano que possuia tais funcionalidades desejadas. Mas ao estudar o código vimos que tempo seria nosso grande inimigo, uma vez que dentro desse applicativo havia inuiméras frameworks.
+
+A(s) últimas exploradas foram ionic e electron. Por usarem a mesmas tecnólogias optamos por ionic.
+A curva de apredizado ionic apresentou-se relativamente curta devído ao número de referencias e app exemplos no git-hub.
+
+Nesse app produzido há algumas funcionalidades a serem melhor impletadas, falta ver como será estruturado o banco de dados
+ver se de fato irá conter o gps, uma vez que API do google só permite um número pequeno de consultas por dia .
+Se não me engano são 100 a 1000 consultas á API no geral, não só ao mapa.
+
+A grosso modo temos ainda que implatar  o gps  do celular, adequadamente, e o acesso ao banco de dados.
+
+##############detalhe a serem levantantados###################################################################
+ 
+Embora essa tecnólogia usada seja free, para gerar o aplicativo para ios temos alguns problemas.
+Gerar aplicativos para ios temos só três altenativas ter um sistema ios, ou pagar a versão pro do ionic. A terceira que estamos a explorar é produzir o aplicativo online no site do ionic. Temos que ver como subir o codigo fonte para plataforma do ionic e se isso é gratuito de fato.   
+
+################################################################################################################################
+
+
+
+Mesmo estando no inicio do projeto geramos o apk somente para android  afim de teste 
+Para instalar no celular o apk nessa fase deve-se abilitar o modo de desenvolvedor permitir apks de terceiros.
+baixar-lo após o download ir pasta onde o aplicativo foi salvo e click nele para instala -lo 
+
+
+
+
+
+
+
+
+

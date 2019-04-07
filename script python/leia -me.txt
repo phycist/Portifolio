@@ -1,0 +1,4 @@
+Esse projeto tem com finalidade de colocar em prática alguns conhecimentos em python.
+
+Procuramos uma solução/ automatizaçõa  simples para alterções das configuraçoes do repositório das distribuções linux.
+Antes de rodar o script, abra o script em editor de texto e siga as instruções.
