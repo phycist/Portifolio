@@ -1,0 +1,6 @@
+para nosso melhor conforto
+no vim instale o nerd tree para cada distro melhor pesquisar
+um terminal com o comando no vim 
+:term
+acerte os diretórios comandos linux
+nos navegamos entre as telas com a tecla w
