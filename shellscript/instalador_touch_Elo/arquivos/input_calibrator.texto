@@ -1,0 +1,5 @@
+Warning: multiple calibratable devices found, calibrating last one (VirtualBox USB Tablet)
+	use --device to select another one.
+Calibrating standard Xorg driver "VirtualBox USB Tablet"
+	current calibration values: min_x=0, max_x=65535 and min_y=0, max_y=65535
+	If these values are estimated wrong, either supply it manually with the --precalib option, or run the 'get_precalib.sh' script to automatically get it (through HAL).

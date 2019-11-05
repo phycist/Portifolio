@@ -1,0 +1,6 @@
+total 16
+-rwxrwx--- 1 pi pi    0 Nov  1 02:11 input_calibrator.texto
+-rw-r--r-- 1 pi pi 7010 Oct 31 17:43 lightdm.conf
+-rwxrwx--- 1 pi pi  427 Oct 30 21:55 rc.local
+-rwxrwx--- 1 pi pi  234 Oct 30 19:53 rc-local.service
+-rw-r--r-- 1 pi pi    0 Nov  1 02:45 res
